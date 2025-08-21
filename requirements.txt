@@ -1,0 +1,13 @@
+
+---
+
+## `requirements.txt`
+
+```text
+numpy
+pandas
+yfinance
+scikit-learn
+tensorflow
+keras
+ 
