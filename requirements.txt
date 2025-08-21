@@ -1,13 +1,6 @@
-
----
-
-## `requirements.txt`
-
-```text
-numpy
-pandas
-yfinance
-scikit-learn
-tensorflow
-keras
- 
+numpy>=1.21
+pandas>=1.3
+yfinance>=0.2
+scikit-learn>=1.0
+tensorflow>=2.10
+keras>=2.10
